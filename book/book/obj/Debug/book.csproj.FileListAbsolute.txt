@@ -1,0 +1,17 @@
+c:\users\ali\documents\visual studio 2017\Projects\book\book\bin\Debug\book.exe.config
+c:\users\ali\documents\visual studio 2017\Projects\book\book\bin\Debug\book.exe
+c:\users\ali\documents\visual studio 2017\Projects\book\book\bin\Debug\book.pdb
+c:\users\ali\documents\visual studio 2017\Projects\book\book\obj\Debug\book.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2017\Projects\book\book\obj\Debug\book.Form1.resources
+c:\users\ali\documents\visual studio 2017\Projects\book\book\obj\Debug\book.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2017\Projects\book\book\obj\Debug\book.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2017\Projects\book\book\obj\Debug\book.exe
+c:\users\ali\documents\visual studio 2017\Projects\book\book\obj\Debug\book.pdb
+c:\users\ali\documents\visual studio 2017\Projects\book\book\bin\Debug\Book_Database.mdf
+c:\users\ali\documents\visual studio 2017\Projects\book\book\bin\Debug\Book_Database_log.ldf
+c:\users\ali\documents\visual studio 2017\Projects\book\book\obj\Debug\book.Form_addBook.resources
+c:\users\ali\documents\visual studio 2017\Projects\book\book\obj\Debug\book.Form_cat.resources
+C:\Users\ali\documents\visual studio 2017\Projects\book\book\obj\Debug\book.Form_massageAdd.resources
+C:\Users\ali\documents\visual studio 2017\Projects\book\book\obj\Debug\book.Form_deletMassge.resources
+C:\Users\ali\documents\visual studio 2017\Projects\book\book\obj\Debug\book.Form_edit.resources
+C:\Users\ali\documents\visual studio 2017\Projects\book\book\obj\Debug\book.Form_Details.resources
